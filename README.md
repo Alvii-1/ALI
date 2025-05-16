@@ -1,4 +1,4 @@
-# ALI
+# Assembly Language Interpreter
 Small-scale Assembly Language Interpreter to learn about low-level execution.
 
 I created this to explore low-level execution. In tradition CS cirriculums, you might only have 1 machine organization class. But I wanted to go a bit further to explore what the relationship between something like program input and system memory looks like.
